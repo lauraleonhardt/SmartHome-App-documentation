@@ -1,6 +1,7 @@
 # User's Guide
 
 ## Getting started
+![screen1](https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
 
 
 
